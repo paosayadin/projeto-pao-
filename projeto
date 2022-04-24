@@ -1,0 +1,95 @@
+
+<!--html-->
+<!DOCTYPE html>
+
+<html lang="pt-br">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>Desenvolvimento sustentável</title>
+  <meta name="description" content="">
+  <meta name="viewport" content="width=devide-width, initial-scale=1">
+  <link rel="stylesheet" type="text/css" href="style.css" />
+  
+</head>
+
+<body>
+    <header>
+      <img class="logo" src="imagens/logo.jpg" alt="logo">
+      <nav>
+        <ul class="nav_links">
+          <li><a href="home.html">Home</a></li>
+          <li><a href="paginas/sobre nós/sobrenos.html">Sobre mim</a></li>
+          <li><a href="#">Home</a></li>
+        </ul>
+      </nav>
+      <a class="cta" href="paginas/contate nos/contatenos.html"><button>Contate-nos</button></a>
+    </header>
+</body>
+
+</html>
+
+/*css*/
+@import url(https://fonts.googleapis.com/css?family=Montserrat:500);
+
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  
+}
+
+body { 
+  background-color: #fff
+}
+
+li, a, button{
+  font-family: "Montserrat", sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  color: #edf0f1;
+  text-decoration: none;
+}
+
+header{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 30px 10%;
+  background-color: #121212;
+}
+
+.logo{
+  cursor: pointer;
+}
+
+.nav_links {
+  list-style: none;
+}
+
+.nav_links li {
+  display: inline-block;
+  padding: 0px 20px;
+}
+
+.nav_links li a{
+  transition: all 0.3s ease 0s;
+}
+
+.nav_links li a:hover{
+  color: #0088a9;
+}
+
+button{
+  padding: 9px 25px;
+  background-color: rgba(0,136,169,1);
+  border: none;
+  border-radius: 50px;
+  cursor:pointer;
+  transition: all 0.3 ease 0s;
+}
+
+button:hover{
+  background-color: rgba(0,136,169,0.8);
+}
