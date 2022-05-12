@@ -10,70 +10,148 @@
   <meta name="viewport" content="width=devide-width, initial-scale=1">
   <link rel="stylesheet" type="text/css" href="style.css" />
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<Style>
-  body{
-    background-color: gray;
-  }
-  main {
-    background-color: white;
-  }
-</Style>
+  <Style>
+    body {
+      background-color: #e9e9e9;
+    }
+  </Style>
 </head>
 
 <body>
-  <!--Header-->  
+  <!--Header-->
   <header>
-      <img class="logo" src="imagens/logo.jpg" alt="logo">
-      <nav>
-        <ul class="nav_links">
-          <li><a href="home.html">Home</a></li>
-          <li><a href="paginas/sobre nós/sobrenos.html">Sobre mim</a></li>
-          <li><a href="#">Home</a></li>
-        </ul>
-      </nav>
-      <a class="cta" href="paginas/contate nos/contatenos.html"><button>Contate-nos</button></a>
-    </header>
-    <article class="img-info">
-    <h2>Yay!</h2>
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-    </p>
+    <img class="logo" src="imagens/logo.jpg" alt="logo">
+    <nav>
+      <ul class="nav_links">
+        <li><a href="home.html">Home</a></li>
+        <li><a href="paginas/sobre nós/sobrenos.html">Sobre mim</a></li>
+        <li><a href="#">Home</a></li>
+      </ul>
+    </nav>
+    <a class="cta" href="paginas/contate nos/contatenos.html"><button>Contate-nos</button></a>
+  </header>
+  <article class="img-info">
+    <center>
+      <h2>Desenvolvimento sustentável</h2>
+    </center>
+    <center>
+      <p>por <u>Lucas Dos Santos Macetelli</u>
+      </p>
+    </center>
   </article>
   <main>
-  <p class="texto">
-    O brasil era o nome de uma ilha imaginária mar adentro uma lenda irlandesa da idade média pedro álvares cabral o primeiro a tocar o solo prometido batizou achado com outro nome não seria ele o responsável pelo descobrimento da maior parte do brasil mas sim américo vespúcio que em 1501 em 1503 navegaria por larga extensão da costa dando conta da vastidão das terras prometidas de véspera ao pequeno reino 
-De portugal portugal nascer bem antes em 868 por obra de vímara peres primeiro conde de portugal ele que descende dos açorianos e galegos heróis a reconquista cristã da península ibérica aos muçulmanos foi para dar sequência essa cruzada os infiéis e os nossos se lançaram ao mar oceano a partir de 1415 acaba em um apresentando o mundo ao mundo em questão de 100 anos responsáveis pelo maior feito histórico em todos os tempos a publicação de um 
-Livreto atribuído é expulso e deu fama a américa portuguesa e aos índios locais em toda a europa não se sabe se foi esse livreto associado a lenda irlandesa a importa o costume o nome brasil para as terras visitadas um se o batismo definitivo de ver essa exploração do pau-brasil primeiro negócio rentável no novo território os franceses logo seguiriam a trilha de vespúcio e estabelecer em bons contatos e bom comércio com os ativos da 
-Costa os tupis e seus primos os guaranis haveria guerra entre portugueses e franceses pelo território em mais de um lugar e ocasião um ponto alto na disputa pela margem direita da baía de guanabara onde os portugueses fundaram são sebastião do rio de janeiro em 1565 como resultado da expulsão de seus adversários europeus um dos heróis da conquista lusa foi um guerreiro tupi araribóia logo batizado martim afonso de souza araribóia não foi pequena a 
-Participação de seus liderados em batalha ar quem ganhou do rei de portugal de presente a margem esquerda da bahia a futura niterói que pertenceria a seus descendentes por muitas gerações portugueses degredados ou aventureiros como joão ramalho e diogo álvares o caramuru ou mesmo nobres como jerônimo de albuquerque logo se envolveram com as índios tupis e povoaram a terra dividida inicialmente em donatarias espécie de 
-Parceria público-privada entre a coroa portuguesa e capitães de conquista e nobres luzes antes da fundação da primeira capital do brasil salvador em 1549 envio no litoral os tupis-guaranis eram povos agricultores moravam em comunidades de mais ou menos 200 indivíduos e não se davam com os índios do interior chamados por eles tapuias tapuia significa estrangeiro na língua tupi na verdade eram povos em sua maioria nômades caçadores-coletores 
-Também em maioria falante de língua do tronco macro-jê e não planeta está a gente tupis e portugueses descenderiam a nobreza da terra e três tipos responsáveis pela colonização interna os paulistas os baianos e os pernambucanos aproveitando-se da união ibérica fusão entre os reinos de portugal e da espanha donos de quase toda a américa do sul união que durou de 1580 a1640 os paulistas descobriram e colonizaram o 
-Que hoje são as regiões sul e centro-oeste e o amazonas seriam eles a explorar no final do segundo século de povoamento luso mameluco as minas gerais glória é dividida com os baianos da casa da ponte dos guedes de brito chamados depreciativamente pelos paulistas e emboabas algo como metidos a besta por seu comandante manuel nunes viana era português europeu de nascimento dos comandados dos guedes de brito e dos da vila estes descendentes de caramuru e 
-Catarina paraguaçu senhores da casa da torre deu-se o povoamento dos sertões nordestinos e do norte em minas gerais mesclaram-se os conquistadores aos ditos tapuias dando origem a um homem sertanejo típico de invocação boiadeira os pernambucanos pelo filho de jerônimo de albuquerque com a tupia batizada maria do espírito santo arcoverde jerônimo de albuquerque maranhão conquistariam o litoral entre alagoas e o maranhão nessas três 
-Vertentes preço imenso país que os dois primeiros séculos criava gado no interior e transformava a cana e açúcar no litoral o açúcar era então um produto muito valioso portugal detinha o monopólio da técnica de produção e a bahia e pernambuco se tornaram os maiores produtores mundiais ficaram muito ricos os brasileiros no século iniciado em 1601 pelo menos até ingleses e franceses passaram e a também produzir o açúcar no caribe aumentando a oferta e 
-Tornando o produto barato tanta riqueza permitiu a compra de muitos escravos na áfrica de etnias bantos e sudaneses e a seleção atraiu a atenção da companhia das índias ocidentais de holandeses que pelas armas tomaram a bahia para se ficar um ano na capital do brasil até serem expulsos e pernambuco permaneceram mais tempo 24 anos até serem empurrados de volta à europa por uma tropa comandada por um português um brasileiro nascido na paraíba um tupi e um 
-Descendente de africanos na batalha de guararapes d1654 momento fundador da nacionalidade brasileira como a conhecemos a partir de 1698 descobre-se ouro primeiro no que viria a ser minas gerais logo em seguida em goiás e cuiabá núcleo pioneiro do futuro mato grosso centenas de milhares de portugueses chegam em busca da sorte com sorte ou sem sorte pessoal lá foi na busca do ouro e dos diamantes que carinho por aqui consolidando o povoamento do 
-Gigante país quase cem vezes maior do que a por em portugal inconfidência mineira tiradentes episódio de menor importância valorizado em demasia nos livros escolares do século 20 que falam de uma inspiração de independência que na verdade praticamente não existia africano tupi e tapuia e luso no sangue português no idioma e da cultura o brasileiro bem recebe seu rei dom joão sexto em 1808 descendente dos bragança a 
-Família que restabeleceram a independência da nação portuguesa em 1640 decide a família que daqui não sairia seus herdeiros haveriam de governado as duas partes da mesma nação além de outras partes de alguma importância como angola moçambique e pedaço da atual índia assim se fez ainda que por ciúmes e brigas diversas acabar se separando a américa portuguesa e portugal europeu processo iniciado em 1822 e concluída apenas em 1831 
-12 filhos de pedro primeiro quarto de portugal maria segunda e pedro segundo ambos nascidos no rio de janeiro governaria os dois países respectivamente imperador e rainha decidiu também de uma princesa austríaca de língua alemã maria leonor por conta da princesa imperatriz consorte do brasil os alemães serão os primeiros imigrantes de grande importância no novo e continua o fluxo de povoamento iniciado em 1819 mantendo-se intenso até 
-Meados do século 20 e espanhóis italianos novos portugueses alemães japoneses poloneses sírio-libaneses e outros chegaram os milhões e enriquecendo em diversificando a cultura brasileira desde sempre propensa a aceitar bem as diferenças culturais a monarquia foi derrubada em 1889 vingança dos brasileiros mais ricos pelo ato da princesa isabel filha de dom pedro segundo e decretar a abolição da escravatura sem indenização 
-Bom então proprietários de escravos entre os poucos entusiastas verdadeiros da república estavam seguidores de uma ideologia então na moda na europa o positivismo de inspiração autoritária relativamente popular nas forças armadas além do gaúcho júlio de castilhos seu representante mais célebre foi o segundo presidente da república floriano peixoto primeiro ditador do brasil sim primeiro ditador dois desde 1532 as câmaras municipais detinha um grande poder no 
-País e eram eleitos democraticamente quem fecharia de vez as câmeras seria o segundo ditador do brasil getúlio vargas admirador do italiano mussolini 17 anos entre 1938 e1945 conduziu um regime de inspiração fascista o estado novo de getúlio antes de professar qualquer ideologia porém a sua vida cultivar o getulismo o culto popular a sua personalidade peculiar a distância gaúcho será o filho de outro estancieiro amigo íntimo de vagas aí 
-Andar pela sorte a presidência do brasil em 1961 influenciado por seu cunhado o radical de esquerda leonel brizola e joão goulart jango como era conhecido inclinou demais o país para esse lado em plena guerra fria disputa pelos corações mentes e poderes do mundo entre o regime de livre mercado dos estados unidos e o regime de propriedade integralmente total da união soviética uma coligação de forças adversárias da alternativa socialista se uniu para forçar jango a 
-Renúncia brizola e joão goulart exilou-se no uruguai enquanto o congresso elege o marechal castelo branco como novo presidente seria sucedido um quatro generais o chamado regime militar autoritário seguiu-se por 21 anos nos quais o brasil atinge seu ápice econômico em termos relativos a comparação com o resto do mundo o áudio ocorrido em e era um resultado de 100 anos de crescimento praticamente continua entre 
-A população foi multiplicada por 10 e o país industrializou-se e divertir com enormemente sua economia o gigante consolidado foi devolvido ao serviço em 1985 e de lá para cá não se notabilizou por nada em especial e aí 
-  </p>
-</main>
-<!--Footer-->
+
+    <img class="foto1" src="imagens/img.jpg" alt="desenvolvimento sustentavel">
+    <div class="texto">
+      <p>
+        O desenvolvimento sustentável expressa a relação entre crescimento econômico, proteção ambiental e preocupações
+        sociais.
+        Em termos de sensibilidades sociais como o uso desarrazoado dos recursos naturais e o impacto das ações humanas
+        no meio ambiente,
+        o conceito de crescimento sustentável é uma alternativa que promove a interdependência entre economia, meio
+        ambiente e sociedade.
+      </p>
+      <p>
+        O conceito de desenvolvimento sustentável refere-se, portanto, à importância de três princípios para sua
+        implementação:
+        princípios econômicos, ambientais e sociais. Essas ações também abordam o conceito de sustentabilidade,
+        que está relacionado à promoção de ações que promovam o crescimento econômico, a proteção ambiental e a redução
+        das desigualdades sociais.
+      </p>
+      <p>
+        Dessa forma, o desenvolvimento sustentável consiste em um conjunto de princípios que perpassam o desenvolvimento
+        econômico e se baseiam em ações de cunho ambiental e social.
+        Para tanto, reconhece-se a importância do desenvolvimento sustentável, que busca crescer economicamente para não
+        causar danos às gerações futuras,
+        pois as atividades produtivas atuais registram altos impactos ambientais. Exemplos de ações sustentáveis
+        incluem:
+      </p>
+
+      <ul>
+        <li>reaproveitamento de recursos ambientais, como colheita seletiva e;</li>
+        <li>a utilização de meio de transportes não poluentes, como as bicicletas.</li>
+      </ul>
+
+      <h2>O que é desenvolvimento sustentável?</h2>
+      <p>
+        Desenvolvimento sustentável é o desenvolvimento econômico humano baseado na proteção dos recursos naturais.
+        Portanto,
+        desenvolvimento sustentável significa uso racional dos recursos naturais, ou seja, não exauridos, com vistas à
+        proteção desses recursos para as gerações futuras.
+        Portanto, com base na importância dos recursos ambientais para as atividades produtivas e na proteção dos
+        recursos ambientais,
+        uma clara preocupação com o futuro da humanidade, busca-se o progresso econômico da sociedade.
+      </p>
+      <p>
+        O termo desenvolvimento sustentável está associado aos diversos debates sobre questões ambientais promovidos por
+        meio das ações da Organização das Nações Unidas (ONU),
+        especialmente no final do século XX. Nesse período, devido ao impacto das atividades humanas no meio ambiente,
+        bem como ao surgimento de questões como as mudanças climáticas e o aquecimento global, os problemas ambientais
+        têm se tornado cada vez mais proeminentes.
+      </p>
+      <p>
+        As discussões sobre desenvolvimento sustentável ocorreram pela primeira vez na Conferência das Nações Unidas
+        sobre o Meio Ambiente Humano em Estocolmo (Suécia) em 1972.
+        O encontro foi um momento importante para os países debaterem questões ambientais, especialmente as preocupações
+        globais sobre os riscos ambientais das políticas de industrialização implementadas principalmente por países
+        desenvolvidos.
+        Em 1987, o documento “Nosso Futuro Comum” sistematizou essas discussões e estabeleceu o termo desenvolvimento
+        sustentável.
+      </p>
+      <p>
+        Em 1992, na Conferência das Nações Unidas sobre Meio Ambiente e Desenvolvimento (Rio-92), no Rio de Janeiro
+        (Brasil), houve um amplo debate sobre o uso do termo desenvolvimento sustentável.
+        Com base nas discussões daquele encontro, o documento, "Agenda 21", expressa a preocupação dos países com o
+        impacto do comportamento humano no meio ambiente
+        e defende a aplicação do desenvolvimento sustentável para minimizar as mudanças ambientais.
+      </p>
+      <p>
+        Mais recentemente, essa defesa foi reforçada na Conferência das Nações Unidas sobre Desenvolvimento Sustentável
+        (Rio+20) de 2012,
+        no Rio de Janeiro (Brasil). De acordo com o acordo desta reunião, o chamado verde. Além disso, foi elaborado o
+        documento “O Futuro que Queremos”,
+        que define os Objetivos de Desenvolvimento Sustentável (ODS), que devem ser implementados por diferentes países
+        do mundo.
+      </p>
+      <img class="img6" src="imagens/img6.png" alt="aaaaaaa">
+
+      <h2>Exemplos de ações sustentáveis</h2>
+      <p>
+        Ações sustentáveis são práticas que podem ser implementadas individual ou coletivamente e levam à conservação
+        dos recursos ambientais,
+        e remetem às preocupações econômicas e sociais da sociedade em proteger o meio ambiente. Abaixo estão alguns
+        exemplos de práticas sustentáveis.
+      </p>
+
+      <ul>
+        <li class="lis1">Divida o lixo doméstico em lixo orgânico e lixo não orgânico. Os resíduos não orgânicos,
+          principalmente os formados a partir de materiais recicláveis, devem passar pela coleta seletiva. Os resíduos
+          orgânicos<br> devem ser devidamente compostados e utilizados como adubo.</li>
+        <li class="lis1">Através do consumo consciente. Na compra, devem ser evitados produtos que não tenham garantia
+          de procedência ambiental. Além disso, o uso de embalagens recicláveis e a preferência por itens que não
+          utilizem<br> plástico em seus ingredientes são ações importantes.</li>
+        <li class="lis1">Use métodos de envio alternativos ou coletivos. O uso de bicicletas e outros meios de
+          transporte não poluentes pode reduzir as emissões de gases na atmosfera. Da mesma forma, as remessas em grupo
+          devem ter<br> precedência sobre as remessas individuais.</li>
+        <li class="lis1">Instalar unidades de geração de energia renovável. Por exemplo, o uso de energia solar pode
+          proteger outros recursos naturais e reduzir os custos domésticos de eletricidade.</li>
+      </ul>
+    </div>
+
+  </main>
+
+  <!--Footer-->
   <footer>
     <Div class="footer-content">
       <h3>Macetelli</h3>
       <p>Lorem ipsum dolor sit, amet consectetur adipiscing elit. illo iste corrupti doloribus odio ser!</p>
       <ul class="socials">
-      <li><a href="https://www.facebook.com/profile.php?id=100080382087155"><i class="fa fa-facebook"></i></a></li>
-      <li><a href="https://twitter.com/macetelli1"><i class="fa fa-twitter"></i></a></li>
-      <li><a href="https://www.instagram.com/macetelli.company/"><i class="fa fa-instagram"></i></a></li>
-      <li><a href="https://www.youtube.com/channel/UCgFbNn5ukLIL7TuipXhFWEQ"><i class="fa fa-youtube"></i></a></li>
-      <li><a href="https://www.linkedin.com/in/lucas-macetelli-3606a9230/"><i class="fa fa-linkedin-square"></i></a></li>
+        <li><a href="https://www.facebook.com/profile.php?id=100080382087155"><i class="fa fa-facebook"></i></a></li>
+        <li><a href="https://twitter.com/macetelli1"><i class="fa fa-twitter"></i></a></li>
+        <li><a href="https://www.instagram.com/macetelli.company/"><i class="fa fa-instagram"></i></a></li>
+        <li><a href="https://www.youtube.com/channel/UCgFbNn5ukLIL7TuipXhFWEQ"><i class="fa fa-youtube"></i></a></li>
+        <li><a href="https://www.linkedin.com/in/lucas-macetelli-3606a9230/"><i class="fa fa-linkedin-square"></i></a>
+        </li>
       </ul>
     </Div>
     <div class="footer-bottom">
@@ -81,6 +159,7 @@ A população foi multiplicada por 10 e o país industrializou-se e divertir com
     </div>
   </footer>
 </body>
+
 </html>
 
 
@@ -91,22 +170,42 @@ A população foi multiplicada por 10 e o país industrializou-se e divertir com
 @import url(https://fonts.googleapis.com/css?family=Montserrat:500);
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700;800&display=swap');
 
-*{
+* {
   box-sizing: border-box;
   margin: 0;
   padding: 0;
-  
+
 }
 
-.texto{
+.primeiro {
+  display: inline;
+}
+
+.lis1 {
+  color: black;
+}
+
+.texto {
   font-size: 20px;
-  padding: 20px;
-  border-radius: 10px;
-  width: 800px;
-margin: auto;
+  background-color: white;
 }
 
-li, a, button{
+.foto1 {
+  width: 250px;
+  height: 300px;
+
+}
+
+.img6 {
+  height: auto;
+  max-width: 100%;
+}
+
+
+
+li,
+a,
+button {
   font-family: "Montserrat", sans-serif;
   font-weight: 500;
   font-size: 16px;
@@ -114,7 +213,7 @@ li, a, button{
   text-decoration: none;
 }
 
-header{
+header {
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -122,7 +221,7 @@ header{
   background-color: #121212;
 }
 
-.logo{
+.logo {
   cursor: pointer;
 }
 
@@ -135,36 +234,36 @@ header{
   padding: 0px 20px;
 }
 
-.nav_links li a{
+.nav_links li a {
   transition: all 0.3s ease 0s;
 }
 
-.nav_links li a:hover{
+.nav_links li a:hover {
   color: #0088a9;
 }
 
-button{
+button {
   padding: 9px 25px;
-  background-color: rgba(0,136,169,1);
+  background-color: rgba(0, 136, 169, 1);
   border: none;
   border-radius: 50px;
-  cursor:pointer;
+  cursor: pointer;
   transition: all 0.3 ease 0s;
 }
 
-button:hover{
-  background-color: rgba(0,136,169,0.8);
+button:hover {
+  background-color: rgba(0, 136, 169, 0.8);
 }
 
-.wrapper{
+.wrapper {
   width: 100%;
 }
 
-.img-info{
+.img-info {
   width: 100%;
 }
 
-.img-info h2{
+.img-info h2 {
   padding: 30px 30px 20px;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 50px;
@@ -172,7 +271,7 @@ button:hover{
   line-height: 44px;
 }
 
-.img-info p{
+.img-info p {
   padding: 0px 30px 20px;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 16px;
@@ -180,26 +279,26 @@ button:hover{
   line-height: 24px;
 }
 
-.img1{
+.img1 {
   float: left;
 }
 
 
 /*  footer  */
-footer{
+footer {
 
-bottom: 0;
-left: 0;
-right: 0;
-background: #111;
-height: auto;
-width: 100vw;
-font-family: 'Open Sans', sans-serif;
-padding-top: 40px;
-color: #fff;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: #111;
+  height: auto;
+  width: 100vw;
+  font-family: 'Open Sans', sans-serif;
+  padding-top: 40px;
+  color: #fff;
 }
 
-.footer-content{
+.footer-content {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -207,56 +306,60 @@ color: #fff;
   text-align: center;
 }
 
-.footer-content h3{
+.footer-content h3 {
   font-size: 1.8rem;
   font-weight: 400;
   text-transform: capitalize;
   line-height: 3rem;
 }
 
-.footer-content p{
-max-width: 500px;
-margin: 10px auto;
-line-height: 28px;
-font-size: 14px;
+.footer-content p {
+  max-width: 500px;
+  margin: 10px auto;
+  line-height: 28px;
+  font-size: 14px;
 }
 
-.socials{
+.socials {
   list-style: none;
   display: flex;
   align-items: center;
   justify-content: center;
   margin: 1rem 0 3rem 0;
 }
-.socials li{
+
+.socials li {
   margin: 0 10px;
 }
-.socials a{
+
+.socials a {
   text-decoration: none;
   color: #fff;
 }
-.socials a i{
+
+.socials a i {
   font-size: 1.1rem;
 }
-.socials a:hover i{
+
+.socials a:hover i {
   color: #0088a9;
 }
 
-.footer-bottom{
+.footer-bottom {
   background: #000;
   width: 100vw;
   padding: 20px 0;
   text-align: center;
 }
-.footer-bottom p{
+
+.footer-bottom p {
   font-family: 14px;
   word-spacing: 2px;
   text-transform: capitalize;
 }
-.footer-bottom span{
+
+.footer-bottom span {
   text-transform: uppercase;
   opacity: .4;
   font-weight: 200;
 }
-
-
